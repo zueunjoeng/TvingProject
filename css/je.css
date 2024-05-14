@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+#hd {
+  height: 80px;
+}
+#hd .text {
+  color: white;
+  background-color: #FF153C;
+  margin: 3px;
+  padding: 3px;
+  text-decoration: none;
+}
+#hd .bi {
+  font-size: 1.5rem;
+  color: white;
+}
